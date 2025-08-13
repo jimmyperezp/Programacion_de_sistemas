@@ -1,6 +1,7 @@
 # Programación de sistemas (3º GITI UPM)
 
 Recopilación de los ejrecicios exámenes y trabajos realizados en la asignatura de programación de sistemas (3º GITI UPM). Todos ellos han sido desarrollados en C++
+
  <img src="https://github.com/jimmyperezp/jimmyperezp/blob/main/cpp.svg" alt="c++" width="40" height="40"/> 
 
 
@@ -29,6 +30,7 @@ Doy este repositorio como terminado, puesto que la asignatura ya ha sido cursada
 
 --------
 Autor: Jaime Pérez Pérez
+
 Última modificación ..> 13/08/2025
 
 
