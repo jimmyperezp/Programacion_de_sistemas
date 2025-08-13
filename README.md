@@ -4,9 +4,7 @@ Recopilación de los ejrecicios exámenes y trabajos realizados en la asignatura
 
  <img src="https://github.com/jimmyperezp/jimmyperezp/blob/main/cpp.svg" alt="c++" width="40" height="40"/> 
 
-
 <br><br>
-
 ## Contenido:
 
 
