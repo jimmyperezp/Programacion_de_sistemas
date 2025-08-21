@@ -2,18 +2,19 @@
 
 Punto::~Punto() { //Destructor.
 } 
-Punto::Punto() {  //Constructor.
+Punto::Punto() {  //Constructor. Ahora lo dejo en blanco. 
 }
 
-
-//Ahora, este metodo setpunto actúa como el constructor "convencional"
 void Punto::setPunto(int _x, int _y) {   
+// Ahora cambio los atributos privados usando la funciÃ³n set
+// RecibirÃ¡ los valores que quiero cambiar (con el mismo tipo que los atributos)
 	x = _x;
 	y = _y;
-
 }
 
 int Punto::getPuntoX() {
+// Y, para consultar los valores, empleo los mÃ©todos "get"
+// Me devuelven el atributo correspondiente.
 	return x;
 }
 
@@ -21,9 +22,7 @@ int Punto::getPuntoY() {
 	return y;
 }
 
-
-//¿POR QUÉ NO USO EL CONSTRUCTOR "CONVENCIONAL"?
-//Porque de esta manera, usando setters, puedo ir dando valores a los atributos 
-//de mi clase poco a poco, segun me convenga. Por eso, no usaré el constructor
-//"convencional". Si en algun caso, le quiero dar valor a todas las variables 
-//directamente, puedo usar el constricutor de igual manera que habia visto antes.
+/*Â¿POR QUÃ‰ NO USO EL CONSTRUCTOR "CONVENCIONAL"?
+De esta manera, usando setters, puedo ir dando valores a los atributos 
+de mi clase poco a poco, segun me convenga. Por eso, no usarÃ© el constructor
+"convencional".*/
