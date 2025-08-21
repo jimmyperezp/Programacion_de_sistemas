@@ -1,19 +1,15 @@
 #pragma once
 #include "cabecera.h"
-class Punto
-{
-private:
-	int x, y;
 
-public:
+class Punto{
+	private:
+		int x, y;
 	
-	Punto();
-	~Punto();
-
-
-	void setPunto(int, int);
-	int getPuntoX();
-	int getPuntoY();
-
+	public:
+		Punto();
+		~Punto();
+	
+		void setPunto(int, int);
+		int getPuntoX();
+		int getPuntoY();
 };
-
