@@ -3,8 +3,8 @@
 Recopilación de los ejrecicios exámenes y trabajos realizados en la asignatura de programación de sistemas (3º GITI UPM). Todos ellos han sido desarrollados en C++
 
  <img src="https://github.com/jimmyperezp/jimmyperezp/blob/main/cpp.svg" alt="c++" width="40" height="40"/> 
-
 <br><br>
+
 ## Contenido:
 
 
@@ -30,7 +30,7 @@ En el código del trabajo están todas las clases dadas y desarrolladas para el 
 
 ## Estado del repositorio
 
-Doy este repositorio como terminado, puesto que la asignatura ya ha sido cursada.
+El repositorio está en revisión. Estoy repasando conceptos y aprendizajes sobre POO mientras reorganizo y añado archivos.
 
 <br><br>
 
