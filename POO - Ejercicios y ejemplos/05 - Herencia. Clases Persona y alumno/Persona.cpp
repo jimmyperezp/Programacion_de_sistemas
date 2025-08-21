@@ -6,11 +6,9 @@ Persona::Persona(string n, int e) {
 }
 
 Persona::~Persona() {
-
 }
 
 void Persona::mostrarPersona() {
 	cout << "la persona se llama: " << nombre << endl;
 	cout << "y tiene " << edad << "anos\n" << endl;
-
 }
