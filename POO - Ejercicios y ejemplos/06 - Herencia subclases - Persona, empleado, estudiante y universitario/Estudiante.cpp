@@ -1,5 +1,3 @@
-
-
 #include "Estudiante.h"
 
 Estudiante::Estudiante(string __nombre, int __edad, int _curso): Persona (__nombre, __edad) {
