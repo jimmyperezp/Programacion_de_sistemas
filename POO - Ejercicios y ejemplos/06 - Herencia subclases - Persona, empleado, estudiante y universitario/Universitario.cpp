@@ -5,7 +5,6 @@ Universitario::Universitario(string _nombre, int _edad, int _curso, int _numero_
 
 	numero_matricula = _numero_matricula;
 
-
 }
 
 Universitario :: ~Universitario() {}
@@ -15,4 +14,3 @@ void Universitario::mostrarUniversitario() {
 	cout << "Numero de matricula  es " << numero_matricula << endl;
 
 }
-
