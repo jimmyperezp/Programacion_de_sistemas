@@ -18,4 +18,3 @@ void Perro::mostrarDatos() {
 void Perro::jugar() {
 	printf("El perro de nombre %s esta jugando\n", nombre);
 }
-
