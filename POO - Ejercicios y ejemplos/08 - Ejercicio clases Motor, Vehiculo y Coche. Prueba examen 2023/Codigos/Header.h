@@ -1,6 +1,6 @@
-#pragma once
-
 //CABECERA.H
+
+#pragma once
 
 #include <stdio.h>
 #include <stdlib.h>
