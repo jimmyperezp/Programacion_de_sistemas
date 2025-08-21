@@ -1,5 +1,5 @@
-#include "cabecera.h" // Aquí están las librerías
-#include "Fecha.h" // Aquí está la clase con sus métodos. 
+#include "Fecha.h" // Dentro de este archivo, ya está incluida la "cabecera.h".
+// Ahí (en cabecera.h) es donde estan las librerías necesarias.
 using namespace std;
 
 int main() {
