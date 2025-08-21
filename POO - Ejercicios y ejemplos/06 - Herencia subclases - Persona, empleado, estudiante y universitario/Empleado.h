@@ -1,16 +1,16 @@
 #pragma once
 #include "Persona.h"
 
-class Empleado: public Persona
-{
-private:
-	int codigopuestotrabajo;
+class Empleado: public Persona {
 
-public:
-	Empleado(string, int, int); 
-	~Empleado();
+	private:
+		int codigopuestotrabajo;
 
-	void mostrarEmpleado();
+	public:
+	
+		Empleado(string, int, int); 
+		~Empleado();
+
+		void mostrarEmpleado();
 
 };
-
