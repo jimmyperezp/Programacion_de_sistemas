@@ -1,18 +1,14 @@
 #pragma once
 #include "cabecera.h"
 
-
-class Persona
-{
+class Persona{
 	
-private:
-	string nombre;
-	int edad;
-
-public:
-	Persona(string, int);
-	~Persona();
-	void mostrarPersona();
-
+	private:
+		string nombre;
+		int edad;
+	
+	public:
+		Persona(string, int); // Constructor.
+		~Persona(); // Destructor.
+		void mostrarPersona(); //Método para mostrar nombre y edad.
 };
-
