@@ -2,7 +2,7 @@
 
 Recopilación de los ejrecicios exámenes y trabajos realizados en la asignatura de programación de sistemas (3º GITI UPM). Todos ellos han sido desarrollados en C++
 <div style="display: flex; justify-content: center;">
-<img src="https://github.com/jimmyperezp/Programacion_de_sistemas/blob/main/logo%20escuela.png" alt="logo industriales" width="350" height="100"/>  <img src="https://github.com/jimmyperezp/jimmyperezp/blob/main/cpp.svg" alt="c++" width="60" height="60"/>  
+ <img src="https://github.com/jimmyperezp/jimmyperezp/blob/main/cpp.svg" alt="c++" width="60" height="60"/>  <img src="https://github.com/jimmyperezp/Programacion_de_sistemas/blob/main/logo%20escuela.png" alt="logo industriales" width="350" height="100"/> 
 </div>
 <br><br>
 
