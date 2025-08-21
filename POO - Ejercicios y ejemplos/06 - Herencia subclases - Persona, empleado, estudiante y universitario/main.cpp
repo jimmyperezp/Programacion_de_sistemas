@@ -18,8 +18,6 @@ int main() {
 	cout << " " << endl;
 	jim.mostrarUniversitario();
 
-
-
 	system("pause");
 	return 0;
 
