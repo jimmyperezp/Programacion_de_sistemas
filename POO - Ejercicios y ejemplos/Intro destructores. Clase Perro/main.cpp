@@ -3,9 +3,12 @@
 int main() {
 	
 	Perro dune( "dune" , "caniche" );
+
 	dune.jugar();
-	dune.~Perro(); //Así elimino el objeto.
-	dune.mostrarDatos();//Perro de nombre 1 y raza 2
+	dune.mostrarDatos(); //Perro de nombre 1 y raza 2
+
+	dune.~Perro(); 	//AsÃ­ elimino el objeto.
+	
 	system("pause");
 	return 0;
 
