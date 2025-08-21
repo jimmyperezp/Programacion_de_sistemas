@@ -1,6 +1,6 @@
 #include "Alumno.h"
 
-int main() {
+int main(){
 
 	Alumno alumno1("Jimmy", 21, 8.75, 20259);
 
