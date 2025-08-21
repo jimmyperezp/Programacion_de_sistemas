@@ -1,5 +1,4 @@
 //CABECERA.H
-
 #pragma once
 
 #include <stdio.h>
