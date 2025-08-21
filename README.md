@@ -35,7 +35,6 @@ El repositorio está en revisión. Estoy repasando conceptos y aprendizajes sobr
 
 <br><br>
 
-
 --------
 Autor: Jaime Pérez Pérez
 
