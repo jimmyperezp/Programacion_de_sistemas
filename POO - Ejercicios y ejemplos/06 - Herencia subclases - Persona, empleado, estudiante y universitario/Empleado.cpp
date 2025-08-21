@@ -1,6 +1,7 @@
 #include "Empleado.h"
 
 Empleado::Empleado(string _inicial, int _edad, int _codigopuesto):Persona (_inicial, _edad) {
+	
 	codigopuestotrabajo = _codigopuesto;
 }
 
