@@ -1,18 +1,16 @@
 #pragma once
 #include "Estudiante.h"
 
-class Universitario: public Estudiante	
-	//solo pongo la clase padre inmediatemente superior
-{
-private: 
-	int numero_matricula;
-public:
-	Universitario(string, int, int, int);  
-	//pero en el constructor, tengo que incluir todas las variables de las
-	//clases superiores.
-	~Universitario();
+class Universitario: public Estudiante{
+//solo pongo la clase padre inmediatemente superior
 
-	void mostrarUniversitario();
+	private: 
+		int numero_matricula;
+	public:
+		Universitario(string, int, int, int);  
+		/* Pero en el constructor, tengo que incluir todas las variables de las clases superiores. */
+		~Universitario();
+
+		void mostrarUniversitario();
 
 };
-
