@@ -10,4 +10,3 @@ public:
 	Animales(string, string);
 	void mostrarQueCome();
 };
-
