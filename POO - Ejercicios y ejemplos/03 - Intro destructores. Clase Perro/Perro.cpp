@@ -2,8 +2,8 @@
 
 //CREACIÓN DEL DESTRUCTOR
 Perro::~Perro() {
-}
-// El destructor va vacío. Simplemente hay que incluirlo. 
+} //El destructor siempre va vacío.
+
 
 //Ahora creo el constructor como siempre
 Perro::Perro(string nom, string raz) {
