@@ -2,6 +2,7 @@
 #include "cabecera.h"
 
 class Perro{
+
 	private:
 		string nombre;
 		string raza;
