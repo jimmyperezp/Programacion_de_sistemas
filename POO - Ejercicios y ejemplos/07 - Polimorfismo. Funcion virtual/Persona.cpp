@@ -12,6 +12,3 @@ void Persona::mostrar() {
 	cout << "Nombre: " << nombre << endl;
 	cout << "Edad " << edad << endl;
 }
-
-
-
