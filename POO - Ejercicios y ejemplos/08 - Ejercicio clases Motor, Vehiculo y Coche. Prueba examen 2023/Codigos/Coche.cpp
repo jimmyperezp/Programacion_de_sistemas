@@ -1,5 +1,4 @@
 //COCHE.CPP 
-
 #include "Coche.h"
 #include "Vehiculo.h"
 
@@ -7,7 +6,6 @@ Coche::Coche(int _numserie ,  string marc, string modelo ,string _matricula, int
 ,  marc,  modelo, _cil) {
 
 	matricula = _matricula;
-
 }
 
 Coche :: ~Coche() {}
@@ -15,5 +13,4 @@ Coche :: ~Coche() {}
 void Coche::getMatricula() {
 
 	cout << "La matricula del coche es: " << matricula << endl;
-
 }
