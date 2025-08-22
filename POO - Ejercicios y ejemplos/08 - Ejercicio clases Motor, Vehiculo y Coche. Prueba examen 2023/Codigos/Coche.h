@@ -1,19 +1,15 @@
-#pragma once
-
 //COCHE.H 
-
+#pragma once
 #include "Vehiculo.h"
 
-class Coche : public Vehiculo 
-{
-private:
-	string matricula;
+class Coche : public Vehiculo{
 
-public:
-	Coche(int, string, string,  string, int);
-	~Coche();
+	private:
+		string matricula;
 
-	void getMatricula();
+	public:
+		Coche(int, string, string,  string, int);
+		~Coche();
 
+		void getMatricula();
 };
-
