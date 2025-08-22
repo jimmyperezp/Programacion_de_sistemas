@@ -1,5 +1,4 @@
 // MOTOR.CPP
-
 #include "Motor.h"
 
 Motor::Motor(int _cil) {
