@@ -15,7 +15,8 @@ Recopilación de los ejrecicios exámenes y trabajos realizados en la asignatura
   - 3: Destructores. 
   - 4: Métodos getters y setters.
   - 5: Herencia en POO. 
-  - 6: Colección de ejercicios de práctica: 
+  - 6: Polimorfismo. Métodos virtuales.
+  - 7: Colección de ejercicios de práctica: 
     
     - Tarjetas Gold
     - Faunia. 
