@@ -5,7 +5,7 @@ int main() {
 	Perro dune( "dune" , "caniche" );
 
 	dune.jugar();
-	dune.mostrarDatos(); //Perro de nombre 1 y raza 2
+	dune.mostrarDatos(); //muestra el nombre y raza.
 
 	dune.~Perro(); 	//Así elimino el objeto.
 	
