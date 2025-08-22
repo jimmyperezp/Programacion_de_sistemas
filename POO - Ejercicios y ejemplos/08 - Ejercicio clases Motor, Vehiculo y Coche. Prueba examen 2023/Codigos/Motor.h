@@ -1,17 +1,17 @@
-#pragma once
 //MOTOR.H 
+#pragma once
 
-class Motor
-{
-private:
-	int cilindrada;
+class Motor{
 
-public:
-	Motor(int);
-	~Motor();
+	private:
+		int cilindrada;
 
-	int getCilindrada();
-	void setCilindrada(int);
+	public:
+		Motor(int);
+		~Motor();
+
+		int getCilindrada();
+		void setCilindrada(int);
 
 };
 
