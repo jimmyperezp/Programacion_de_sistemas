@@ -1,6 +1,6 @@
 #include "rectangulo.h"
 
-// 1. CONSTRUCTOR: 
+// 1-> CONSTRUCTOR: 
 // Tiene el mismo nombre de la clase.
 // La sintaxis es: Clase::Constructor(parámetros del constructor)
 Rectangulo::Rectangulo(float l, float a) {
@@ -12,6 +12,7 @@ Rectangulo::Rectangulo(float l, float a) {
 }
 
 void Rectangulo::perimetro(){
+
 	float perim; //Me creo una variable que usaré para el cálculo.
 	perim = 2 * largo + 2 * ancho;
 	printf("El perimetro del rectangulo es %.2f metros.\n",perim);
