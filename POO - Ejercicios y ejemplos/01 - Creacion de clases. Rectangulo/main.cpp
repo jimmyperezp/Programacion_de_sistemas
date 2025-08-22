@@ -1,5 +1,4 @@
 /* Ejercicio 1: 
-----------------
 construya una clase llamada rectangulo que tenga los siguientes atributos :
 largo y ancho, y los siguientes metodos: perimetro () y area()*/
 
@@ -17,7 +16,5 @@ int main() {
 
 		system("pause");
 	return 0;
-
-
 
 }
