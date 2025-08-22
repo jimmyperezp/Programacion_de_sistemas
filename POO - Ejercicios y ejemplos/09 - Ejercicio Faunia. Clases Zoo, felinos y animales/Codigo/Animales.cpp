@@ -1,5 +1,4 @@
 // ANIMALES.CPP
-
 #include "Animales.h"
 
 Animales::Animales(string _esp, string _comida) {
