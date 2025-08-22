@@ -21,5 +21,4 @@ int Vehiculo:: getNumSerie() {
 
 Motor Vehiculo::obtenerMotor() {
 	return elMotor;
-
 }
