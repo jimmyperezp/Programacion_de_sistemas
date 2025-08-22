@@ -4,6 +4,7 @@
 #include "Profesor.h"
 
 int main() {
+
 	Persona *vector[3];
 
 	vector[0] = new Alumno("Jimmy", 21, 20259, 9.75);
@@ -14,16 +15,18 @@ int main() {
 	vector[0]->mostrar();
 	cout << "\n" ;
 
-
 	cout << "-----ALUMNO 2-----\n";
 	vector[1]->mostrar();
 	cout << "\n";
-
 
 	cout << "-----PROFESOR-----\n";
 	vector[2]->mostrar();
 	cout << "\n";
 
+
+	/* Cada llamada al método mostrar, pese a tener el mismo nombre, devolverá algo distinto, en función de qué tipo es el objeto
+	que llama a dicho método. */
+	
 	system("pause");
 	return 0;
 }
