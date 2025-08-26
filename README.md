@@ -1,8 +1,8 @@
 # Programación de sistemas (3º GITI UPM)
 
-Recopilación de los ejrecicios exámenes y trabajos realizados en la asignatura de programación de sistemas (3º GITI UPM). Todos ellos han sido desarrollados en C++
+Recopilación de los ejercicios, exámenes y trabajos realizados en la asignatura de programación de sistemas (3º GITI UPM). Todos ellos han sido desarrollados en C++
 <div style="display: flex; justify-content: center;">
- <img src="https://github.com/jimmyperezp/jimmyperezp/blob/main/cpp.svg" alt="c++" width="60" height="60"/>  <img src="https://github.com/jimmyperezp/Programacion_de_sistemas/blob/main/logo%20escuela.png" alt="logo industriales" width="300" height="100"/> 
+<img src="https://github.com/jimmyperezp/jimmyperezp/blob/main/cpp.svg" alt="c++" width="60" height="60"/>  <img src="https://github.com/jimmyperezp/Programacion_de_sistemas/blob/main/logo%20escuela.png" alt="logo industriales" width="300" height="100"/> 
 </div>
 <br><br>
 
@@ -32,14 +32,14 @@ En el código del trabajo están todas las clases dadas y desarrolladas para el 
 
 ## Estado del repositorio
 
-El repositorio está en revisión. Estoy repasando conceptos y aprendizajes sobre POO mientras reorganizo y añado archivos.
+El repositorio está finalizado. Todos los códigos han sido revisados y documentados. 
 
 <br><br>
 
 --------
 Autor: Jaime Pérez Pérez
 
-Última modificación ..> 21/08/2025
+Última modificación ..> 26/08/2025
 
 
 
